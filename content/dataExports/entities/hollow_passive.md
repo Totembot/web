@@ -20,8 +20,9 @@ totemDataType: "char"
 | [[bug_pellet_dark]] | 0-5 | 0.17 | 0.17 |
 | `gw_[]_[broken,old,common]_base_[base-100,bleed-5,burn-5,breakdefence-5,spinslash-10,openwound-10]` | 0-1 | 0.01 | 0.01 |
 | [[potion_healing]] | 0-2 | 1.20 | 1.20 |
-| [[grapple]] | 0-1 | 0.50 | 0.50 |
-| [[wa_wild_strikes]] | 0-1 | 0.50 | 0.05 |
+| [[grapple]] | 0-1 | 0.48 | 0.48 |
+| [[wa_wild_strikes]] | 0-1 | 0.48 | 0.05 |
+| [[push]] | 0-1 | 0.05 | 0.02 |
 | `gw_[axe,hammer,ss0,dagger0]_[common,old,broken]_base_base` | 1-1 | 1.00 | 1.00 |
 | [[ga_hide_chestpiece]] | 0-1 | 0.42 | 0.42 |
 | [[ga_leather_chestpiece]] | 0-1 | 0.42 | 0.42 |

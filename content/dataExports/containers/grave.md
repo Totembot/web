@@ -2,7 +2,7 @@
 totemDataType: "container"
 ---
 # Contents
-### [[grave_items]]
+### [[dt_grave_items]]
 | Item | Min-Max | Expected |
 |-|-|-|
 | [[gold_coin]] | 0-1000 | 300.00 |
